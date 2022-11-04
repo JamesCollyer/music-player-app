@@ -1,7 +1,7 @@
 # Music-player App
 
 ## Hosted at:
-### https://mixtape-music-player.netlify.app/
+### https://jc-music-player.netlify.app/
 
 ## Technologies used for this project include:
 
