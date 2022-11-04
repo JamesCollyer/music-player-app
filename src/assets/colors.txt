@@ -1,0 +1,3 @@
+hover grey: #4D4E53
+background grey: #17161B
+sidebar grey: #242529
